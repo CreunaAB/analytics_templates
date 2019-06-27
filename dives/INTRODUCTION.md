@@ -27,12 +27,16 @@ To create a dive you need:
 - RStudio
 - GitHub account
 
-We have create a few template pages to keep our look and feel consistent. To create a Deep Dive for a client:
+We have a few template pages to keep our look and feel consistent. To create a Deep Dive for a client:
 
 - install R and RStudio (if you don't already have them)
 - create a new project by selecting the "Simple R Markdown Website" option
-- run `curl -O https://raw.githubusercontent.com/CreunaAB/analytics_templates/master/dives/deepdive.sh` in the terminal
-- run `sh deepdive.sh` in the terminal (you only need to do this once, it downloads the template files in this folder into your project)
+- run `curl -O https://raw.githubusercontent.com/CreunaAB/analytics_templates/master/dives/deepdive.sh`
+- run `sh deepdive.sh` 
+  
+The last two command have to be run inside your terminal in RStudio.
+
+You only need to run the last command once, it downloads the template files from this folder into your project.
 
 At that point, you'll have the basic structure to start working on your site.
 
