@@ -1,7 +1,7 @@
-# mysite
+# analytics templates
 
-mockup website for tracking debugging
+templates for analytics team
 
 ***
 
-This is a website that replicates some of the functionalities that real clients might have on their sites. We use this website as our testing ground to test tracking implementations and new tools.
+This is a website that contains a few templates that speed up project creation.
