@@ -8,6 +8,7 @@
   - [Table of Contents](#Table-of-Contents)
   - [What are Deep Dives](#What-are-Deep-Dives)
   - [How to create Deep Dives](#How-to-create-Deep-Dives)
+  - [Resources](#Resources)
 
 ## What are Deep Dives
 
@@ -34,10 +35,14 @@ We have a few template pages to keep our look and feel consistent. To create a D
 - run `curl -O https://raw.githubusercontent.com/CreunaAB/analytics_templates/master/dives/deepdive.sh`
 - run `sh deepdive.sh` 
   
-The last two command have to be run inside your terminal in RStudio.
-
-You only need to run the last command once, it downloads the template files from this folder into your project.
+The last two command have to be run inside your terminal in RStudio and only once per project.
 
 At that point, you'll have the basic structure to start working on your site.
+
+To upload your sites on GitHub anb deploying them online contact Will. We do not have an automatic process for that yet.
+
+## Resources
+
+- [Lean more about Rmarkdown sites](https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html)
 
 Good Luck!!!

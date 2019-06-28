@@ -1,0 +1,21 @@
+---
+title: "My Website"
+---
+
+<img src="" height=200 width=200>
+
+Welcome to your Deep Dives!
+
+On this website, we collect interesting research and analyses about your business. 
+
+Creuna's goals is help you learn important things about your company so that you can make better decisions with confidence.
+
+## Instructions
+
+Each dive is on it's own URL that you can access by clicking on the links in the `Dives` section of this page.
+
+## Dives
+
+Below are our deep dives. 
+
+- [Example Research Deep Dive](example.html)

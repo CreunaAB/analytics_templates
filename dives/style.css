@@ -6,3 +6,8 @@ body {
 figure{
     display: inline-block;
 }
+
+h1, h2, h3 {
+  font-weight: bold;
+  line-height: 50px;
+}
