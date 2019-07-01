@@ -43,7 +43,7 @@ To upload your sites on GitHub anb deploying them online contact Will.
 
 We do not have an automatic process for that yet.
 
-[Download and watch this video to see these instructions in action](https://raw.githubusercontent.com/CreunaAB/analytics_templates/master/dives/media/deepdive.mov)
+[Download and watch this video to see these instructions in action](https://github.com/CreunaAB/analytics_templates/blob/master/dives/media/deepdive.mov).
 
 ## Resources
 
