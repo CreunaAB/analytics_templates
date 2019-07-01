@@ -39,7 +39,11 @@ The last two command have to be run inside your terminal in RStudio and only onc
 
 At that point, you'll have the basic structure to start working on your site.
 
-To upload your sites on GitHub anb deploying them online contact Will. We do not have an automatic process for that yet.
+To upload your sites on GitHub anb deploying them online contact Will. 
+
+We do not have an automatic process for that yet.
+
+[Download and watch this video to see these instructions in action](https://raw.githubusercontent.com/CreunaAB/analytics_templates/master/dives/media/deepdive.mov)
 
 ## Resources
 
