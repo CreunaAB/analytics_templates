@@ -10,8 +10,4 @@ output:
     theme: cosmo
     highlight: textmate
     css: style.css
-    pandoc_args:
-    - --bibliography
-    - bibliography.bib
-    - --filter
-    - $RSTUDIO_PANDOC/pandoc-citeproc
+
