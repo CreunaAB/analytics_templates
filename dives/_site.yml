@@ -5,6 +5,7 @@ navbar:
     - text: "Home"
       href: index.html
 output:
+  pdf_document: default
   html_document:
     theme: cosmo
     highlight: textmate
